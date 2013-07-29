@@ -12,7 +12,6 @@ def Initialize_Parameters():
     ser.write(button +'\r\n')
     ser.write(button1 +'\r\n')
 
-#threeeedfs
     #Message
     message  ="t \"Welcome to\n Erdos Miller Instruments\n Press a button: \"11 11"
     message1 ="t \"Continue\"70 100"
